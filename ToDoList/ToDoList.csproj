@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9AB6E59E-81BD-443F-AE35-3368EC7A17F0}</ProjectGuid>
+    <ProjectGuid>{7451313E-C5D4-4642-8DF5-AB3CD30D4DBC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>GeographyQuiz</RootNamespace>
-    <AssemblyName>GeographyQuiz</AssemblyName>
+    <RootNamespace>ToDoList</RootNamespace>
+    <AssemblyName>ToDoList</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -35,7 +35,7 @@ namespace GeographyQuiz
         private bool CheckContainsWrongAnswer(string answer)
         {
             bool containsWrongAnswer = false;
-            string[] wrongAnswers = { "arctic", "atlantic", "indian" };
+            string[] wrongAnswers = { "antarctic", "arctic", "atlantic", "indian", "southern" };
 
             foreach (string wrongAnswer in wrongAnswers)
             {

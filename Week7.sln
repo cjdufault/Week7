@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeographyQuiz", "GeographyQ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{7451313E-C5D4-4642-8DF5-AB3CD30D4DBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APOD_BASE", "APOD\APOD_BASE.csproj", "{A02DAF2A-A56F-4EEB-A3A9-FC886F314716}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7451313E-C5D4-4642-8DF5-AB3CD30D4DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7451313E-C5D4-4642-8DF5-AB3CD30D4DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7451313E-C5D4-4642-8DF5-AB3CD30D4DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02DAF2A-A56F-4EEB-A3A9-FC886F314716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02DAF2A-A56F-4EEB-A3A9-FC886F314716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02DAF2A-A56F-4EEB-A3A9-FC886F314716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02DAF2A-A56F-4EEB-A3A9-FC886F314716}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
